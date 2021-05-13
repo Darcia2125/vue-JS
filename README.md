@@ -1,0 +1,2 @@
+# vue-JS
+Tout d'abord il y a le login, puis il y aura un menu latéral sur la gauche qui sont : produits, utilisateurs et se deconnecter, et vous serez rediriger vers le menu produit. Dans ce menu il y aurai 2 carte de produit et si vous cliquez sur la carte, il y a  le formulaire de produit. ¨Puis , dans le deuxième menu utilisateurs, vous verez la liste des utilisateurs. Enfin, pour vous deconnecter cliquez sur se deconnecter 😉
